@@ -1,4 +1,4 @@
-Hospital Central — Portal Clínico y Sitio Informativo
+Proyecto Hospital — Portal Clínico y Sitio Informativo
 Proyecto web multipágina desarrollado en HTML puro (con estilos en línea y navegación mediante rutas relativas) para una tarea académica de la carrera Tecnología Superior Universitaria en Desarrollo de Software en PUCE Tec (Pontificia Universidad Católica del Ecuador).
 
 Autoría
