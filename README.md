@@ -34,3 +34,4 @@ Reemplazo de rutas absolutas por rutas relativas: Se sustituyeron las rutas inic
 Estructura de carpetas compatible: Se mantuvo index.html en la raíz del repositorio y las carpetas imgs/ y pages/ al mismo nivel para que los enlaces e imágenes resuelvan correctamente al publicarse mediante GitHub Pages (Settings > Pages > Deploy from a branch).
 
 Ajustes de marcado HTML: Se corrigieron cierres de etiquetas, filas de tabla (<tr> dentro de <thead>) y referencias de id/for en los formularios para mantener una estructura válida en el navegador.
+Acceso pagina: https://arielalexander06.github.io/proyecto_hospital/
